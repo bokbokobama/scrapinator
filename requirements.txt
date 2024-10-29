@@ -1,6 +1,7 @@
-beautifulsoup4
-requests
 tqdm
 pandas
 cloudscraper
 html.parser
+sv-ttk
+lxml
+traceback
